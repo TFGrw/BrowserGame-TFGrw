@@ -1,5 +1,6 @@
 ## This is our official brainstorming board ##
 1. Write your idea into the unordered list.
+2. 
 ## Ideas ##
 + Special celebrations(easter, christmas, new year)
 	- Layout will change
